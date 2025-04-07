@@ -1,6 +1,6 @@
 # Função de Transição Estendida em AFD
 
-Repositório da disciplina **Linguagens Formais e Autômatos (LFA)** – UFT.
+Repositório de exercício da disciplina **Linguagens Formais e Autômatos (LFA)** – UFT.
 
 ## Sobre
 
